@@ -1,0 +1,38 @@
+.container {
+    width: 450px;
+    margin: auto;
+    position: relative;
+    border: 2px solid #BE89A3;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.title {
+    position: absolute;
+    border: 2px solid #BE89A3;
+    background-color: #FFA20C;
+    top: -10px;
+    left: 10px;
+    color: white;
+    padding: 5px;
+}
+input {
+    border: 2px solid #BE89A3;
+    background-color: #FEE3AE;
+}
+select {
+    border: 2px solid #BE89A3;
+    background-color: #FEE3AE;
+    color: #BE89A3;
+}
+table {
+    margin: auto;
+    border-spacing: 10px;
+}
+.cot {
+    text-align: right;
+    vertical-align: top;
+}
+textarea {
+    background-color: #FEE3AE;
+    border: 2px solid #BE89A3;
+}
